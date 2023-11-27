@@ -1,0 +1,29 @@
+
+# https://ads.google.com/aw/apicenter?ocid=87481081&ascid=87481081&euid=396299656&__u=9525487944&uscid=87481081&__c=9523142769&authuser=0&subid=it-it-awhp-g-aw-c-home-signin%21o2-adshp-hv-q4-22-ahpm-0000000111-0000000004
+
+# dev token personale
+#developer_token: "8qW86-uoWg-44__sg-JYLA"
+
+
+
+#https://ads.google.com/aw/apicenter?ocid=89207918&ascid=89207918&euid=396299656&__u=9525487944&uscid=89207918&__c=9068512382&authuser=0
+# dev token searcus
+developer_token: "gK3k6hTbq7STZojk7vdsLQ"
+
+
+
+#https://console.cloud.google.com/apis/credentials?project=trafficapi-402508
+
+# personale
+#client_id: "824915232166-3uq1ricueqg2p480lkl3led0uufa50nc.apps.googleusercontent.com"
+#client_secret: "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"
+#refresh_token: "1//09BNifg2KxyZdCgYIARAAGAkSNwF-L9Ir66g4iMIk3yPZJ0B0_tdAn36jXjJ5xr8b5SP88auy73WiLOeaielAbvTAUYtBgmOJ6yc"
+
+#searcus
+
+client_id: "950188991968-48pghlpmalnkus1lrfco4hp5ulg5bot0.apps.googleusercontent.com"
+client_secret: "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"
+refresh_token: "1//09iZolAHCAplkCgYIARAAGAkSNwF-L9IrbIHAuoTzcOEniXoppOMHAIis7U1Zhywu_SKvG9IwsmtKadglCsk37IxRzPsTTpCcmNo"
+
+
+use_proto_plus: True  # or False, based on your requirement
